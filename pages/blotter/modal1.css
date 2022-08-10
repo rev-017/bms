@@ -1,0 +1,32 @@
+.modal-body{
+	background-color: #EAEAEA;
+}
+
+.modal-header {
+	background-color:#382140;
+	color: white;
+}
+
+.modal-footer {
+	background-color: #382140;
+	class-color: #382140;
+}
+
+.form-group {
+	font-family: sans-serif, century-gothic;
+	font-size: 1.3rem;
+	color: light-black;
+	border-radius: 10px;
+	padding: 10x;
+}
+
+.form-control{
+	border-weight: 2px;
+}
+
+.haha {
+	background-color:green;
+	color: purple;
+	border-color: whitesmoke;
+
+}
